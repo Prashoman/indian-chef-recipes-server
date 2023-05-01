@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "https://st2.depositphotos.com/1039098/8856/i/600/depositphotos_88565034-stock-photo-aloo-gobi-indian-food.jpg",
+    "title": "This is an indian food",
+    "description": "The flavor of your food is what most customers focus on when they are deciding what to eat. The way you engineer your menu can help build anticipation"
+  },
+  {
+    "id": 2,
+    "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/phaliyan_and_aloo_sabzi_42788_16x9.jpg",
+    "title": "One of the best food in India",
+    "description": "Another consideration when describing your food is texture. Properly using food adjectives to describe mouthfeel helps your guests to imagine what it will be like to eat your food before they order it."
+  },
+  {
+    "id": 3,
+    "img": "https://st4.depositphotos.com/8153606/24158/i/600/depositphotos_241581430-stock-photo-concept-french-cuisine-laid-table.jpg",
+    "title": " A food that was cooked in an oven, often resulting in a crispy outer coating",
+    "description": "One of the best ways to describe food on your menu is by indicating how it was prepared. So long as your customer recognizes the words you choose, it will give them a clear picture of your food's flavor and appearance"
+  }
+]
