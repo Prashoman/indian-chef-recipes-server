@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://smedia2.intoday.in/indiatoday/images/stories/2017October/ubeid_102617045151.jpg",
+    "name": "Ubeid Khan",
+    "experience": "5 years",
+    "numberRecipe": 10,
+    "likes": 100,
+    "description": "The easiest way to accidentally influence your customers into passing over a menu item is to use a word with a negative connotation. Before you put a word in your menu description, take a moment to think about how that word is commonly used. Does it bring a positive image to mind, or is it unappetizing? Additionally, the positive alternatives to negative words are often more specific, so they give your customers a more precise idea of what your food is like."
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
+    "name": "Pankaj Bhadouria",
+    "experience": "8 years",
+    "numberRecipe": 20,
+    "likes": 200,
+    "description": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like ‘Chef Pankaj Ka Zayka’ and ‘3 Course with Pankaj’, to name a few."
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vineet-bhatia-1.jpg",
+    "name": "Vineet Bhatia",
+    "experience": "3 years",
+    "numberRecipe": 5,
+    "likes": 50,
+    "description": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy"
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/anahita-1.jpg",
+    "name": "Anahita Dhondy",
+    "experience": "6 years",
+    "numberRecipe": 15,
+    "likes": 150,
+    "description": "Anahita Dhondy’s Insta-feed is filled with yummylicious recipes that will make you want to don your chef hat as well. From Parsi dishes to continental delights, you will find it all over here. With thorough instructions at one’s disposal, it is easier to follow her lead and make all the ah-mazing recipes"
+  },
+  {
+    "id": 5,
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
+    "name": "Ajay Chopra",
+    "experience": "4 years",
+    "numberRecipe": 8,
+    "likes": 80,
+    "description": "He’s known as the master of progressive Indian cuisines and has also been a judge on the popular cooking show MasterChef India. He is known for rolling out quirky recipes that will give you a fresh take on popular traditional Indian dishes that will make you want to head over to the kitchen right away."
+  },
+  {
+    "id": 6,
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
+    "name": "Vikas Khanna",
+    "experience": "2 years",
+    "numberRecipe": 3,
+    "likes": 30,
+    "description": "Vikas Khanna has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "chefId": 1,
+    "image": "https://www.allrecipes.com/thmb/8l5q8TABFLG7mmxdUHUORcNhT5k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/419396-8c51525d9d214fe6992244aa286001fe.jpg",
+    "ingredients": "2 pounds chicken, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Photos of Tandoori Chicken",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chefId": 1,
+    "image": "https://www.allrecipes.com/thmb/_84eAWZNoe4SZPxNQFb9gyOXHmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212721-indian-chicken-curry-murgh-kari-mfs-step6-008-4x3-8bdd191a9b0f4508acb8e9fb11210c20.jpg",
+    "ingredients": "Murgh Kari makes use of a potent spice blend that includes garam masala, coriander, turmeric, and cayenne pepper. Tomato, yogurt, and onion are also essential ingredients in this classic Indian main dish. Fresh minced garlic and ginger lend a pleasant sharpness.Our top-rated recipe uses skinless, boneless chicken breasts for a tender, evenly cooked result, but other cuts like tenderloin and thigh make suitable substitutions",
+    "name": "Indian Chicken Curry (Murgh Kari)",
+    "cookingMethod": "Broiling",
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "chefId": 1,
+    "image": "https://example.com/image30.jpg",
+    "ingredients": "4 tablespoons vegetable oil, divided,4 small potatoes, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, skinless chicken pieces cut into chunks,1 pound basmati rice",
+    "name": "Chicken Biryani",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "chefId": 2,
+    "image": "https://www.allrecipes.com/thmb/jPmFBh9l0tVprmiKxOotX4_qzQM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4572726-easy-chicken-madras-recipe-Try-This-Recipe-4x3-1-14b6a305ab6a4137ac4ca510004629bd.jpg",
+    "ingredients": "2 onions, coarsely chopped, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Easy Chicken Madras Recipe",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "chefId": 2,
+    "image": "https://e7.pngegg.com/pngimages/376/42/png-clipart-roasted-chicken-tandoori-chicken-indian-cuisine-chicken-tikka-kebab-kebab-miscellaneous-food.png",
+    "ingredients": "Murgh Kari makes use of a potent spice blend that includes garam masala, coriander, turmeric, and cayenne pepper. Tomato, yogurt, and onion are also essential ingredients in this classic Indian main dish. Fresh minced garlic and ginger lend a pleasant sharpness.Our top-rated recipe uses skinless, boneless chicken breasts for a tender, evenly cooked result, but other cuts like tenderloin and thigh make suitable substitutions",
+    "name": "Grilled Tandoori Chicken thighs",
+    "cookingMethod": "Grilling",
+    "rating": 3.8
+  },
+  {
+    "id": 6,
+    "chefId": 2,
+    "image": "https://example.com/image30.jpg",
+    "ingredients": "4 tablespoons vegetable oil, divided,4 small potatoes, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, skinless chicken pieces cut into chunks,1 pound basmati rice",
+    "name": "Chicken Biryani",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "chefId": 3,
+    "image": "https://www.allrecipes.com/thmb/8l5q8TABFLG7mmxdUHUORcNhT5k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/419396-8c51525d9d214fe6992244aa286001fe.jpg",
+    "ingredients": "2 pounds chicken, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Photos of Tandoori Chicken",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "chefId": 3,
+    "image": "https://www.allrecipes.com/thmb/_84eAWZNoe4SZPxNQFb9gyOXHmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212721-indian-chicken-curry-murgh-kari-mfs-step6-008-4x3-8bdd191a9b0f4508acb8e9fb11210c20.jpg",
+    "ingredients": "Murgh Kari makes use of a potent spice blend that includes garam masala, coriander, turmeric, and cayenne pepper. Tomato, yogurt, and onion are also essential ingredients in this classic Indian main dish. Fresh minced garlic and ginger lend a pleasant sharpness.Our top-rated recipe uses skinless, boneless chicken breasts for a tender, evenly cooked result, but other cuts like tenderloin and thigh make suitable substitutions",
+    "name": "Indian Chicken Curry (Murgh Kari)",
+    "cookingMethod": "Broiling",
+    "rating": 3.8
+  },
+  {
+    "id": 9,
+    "chefId": 3,
+    "image": "https://www.allrecipes.com/thmb/GYB9Q3mpiAUMYNi3Bl5KSHB88RU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/288198-chicken-hariyali-tikka-SunnyByrd-4x3-1-af31d6a4a18543f593f73fb929bdc40e.jpg",
+    "ingredients": "1 cup finely chopped fresh cilantro, d1 tablespoon ginger garlic paste, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, 1 tablespoon green chile paste",
+    "name": "Chicken Hariyali Tikka",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "chefId": 4,
+    "image": "https://www.allrecipes.com/thmb/8l5q8TABFLG7mmxdUHUORcNhT5k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/419396-8c51525d9d214fe6992244aa286001fe.jpg",
+    "ingredients": "2 pounds chicken, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Photos of Tandoori Chicken",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "chefId": 4,
+    "image": "https://www.allrecipes.com/thmb/GYB9Q3mpiAUMYNi3Bl5KSHB88RU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/288198-chicken-hariyali-tikka-SunnyByrd-4x3-1-af31d6a4a18543f593f73fb929bdc40e.jpg",
+    "ingredients": "1 cup finely chopped fresh cilantro, d1 tablespoon ginger garlic paste, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, 1 tablespoon green chile paste",
+    "name": "Chicken Hariyali Tikka",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 12,
+    "chefId": 4,
+    "image": "https://example.com/image30.jpg",
+    "ingredients": "4 tablespoons vegetable oil, divided,4 small potatoes, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, skinless chicken pieces cut into chunks,1 pound basmati rice",
+    "name": "Chicken Biryani",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "chefId": 5,
+    "image": "https://www.allrecipes.com/thmb/8l5q8TABFLG7mmxdUHUORcNhT5k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/419396-8c51525d9d214fe6992244aa286001fe.jpg",
+    "ingredients": "2 pounds chicken, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Photos of Tandoori Chicken",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "chefId": 5,
+    "image": "https://www.allrecipes.com/thmb/_84eAWZNoe4SZPxNQFb9gyOXHmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212721-indian-chicken-curry-murgh-kari-mfs-step6-008-4x3-8bdd191a9b0f4508acb8e9fb11210c20.jpg",
+    "ingredients": "Murgh Kari makes use of a potent spice blend that includes garam masala, coriander, turmeric, and cayenne pepper. Tomato, yogurt, and onion are also essential ingredients in this classic Indian main dish. Fresh minced garlic and ginger lend a pleasant sharpness.Our top-rated recipe uses skinless, boneless chicken breasts for a tender, evenly cooked result, but other cuts like tenderloin and thigh make suitable substitutions",
+    "name": "Indian Chicken Curry (Murgh Kari)",
+    "cookingMethod": "Broiling",
+    "rating": 3.8
+  },
+  {
+    "id": 15,
+    "chefId": 5,
+    "image": "https://example.com/image30.jpg",
+    "ingredients": "4 tablespoons vegetable oil, divided,4 small potatoes, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, skinless chicken pieces cut into chunks,1 pound basmati rice",
+    "name": "Chicken Biryani",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  },
+  {
+    "id": 16,
+    "chefId": 6,
+    "image": "https://www.allrecipes.com/thmb/8l5q8TABFLG7mmxdUHUORcNhT5k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/419396-8c51525d9d214fe6992244aa286001fe.jpg",
+    "ingredients": "2 pounds chicken, cut into pieces,1 medium lemon, juiced,1 teaspoon salt,1 ¼ cups plain yogurt,½ medium onion, finely chopped,1 clove garlic, minced,12 teaspoons garam masala,1 teaspoon cayenne pepper",
+    "name": "Photos of Tandoori Chicken",
+    "cookingMethod": "Broiling",
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "chefId": 6,
+    "image": "https://www.allrecipes.com/thmb/_84eAWZNoe4SZPxNQFb9gyOXHmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212721-indian-chicken-curry-murgh-kari-mfs-step6-008-4x3-8bdd191a9b0f4508acb8e9fb11210c20.jpg",
+    "ingredients": "Murgh Kari makes use of a potent spice blend that includes garam masala, coriander, turmeric, and cayenne pepper. Tomato, yogurt, and onion are also essential ingredients in this classic Indian main dish. Fresh minced garlic and ginger lend a pleasant sharpness.Our top-rated recipe uses skinless, boneless chicken breasts for a tender, evenly cooked result, but other cuts like tenderloin and thigh make suitable substitutions",
+    "name": "Indian Chicken Curry (Murgh Kari)",
+    "cookingMethod": "Broiling",
+    "rating": 3.8
+  },
+  {
+    "id": 18,
+    "chefId": 6,
+    "image": "https://example.com/image30.jpg",
+    "ingredients": "4 tablespoons vegetable oil, divided,4 small potatoes, peeled and halved,2 large onions, finely chopped,2 cloves garlic, minced,1 tablespoon minced fresh ginger root,3 pounds boneless, skinless chicken pieces cut into chunks,1 pound basmati rice",
+    "name": "Chicken Biryani",
+    "cookingMethod": "oiling",
+    "rating": 4.1
+  }
+]
